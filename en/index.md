@@ -23,3 +23,4 @@ Download from <strong>[here](/NicoClip/releases/1.0.1/NicoClip-1.0.1-Installer.d
 <br><br>
 [JP](../)/<strong>EN</strong><br>
 Copyright 2020 takpika. All rights reserved.
+<script type="text/javascript" src="/NicoClip/js/main.js"></script>

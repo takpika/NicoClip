@@ -23,3 +23,4 @@ Release: 2020/11/10<br>
 <br><br>
 <strong>JP</strong>/[EN](en/)<br>
 Copyright 2020 takpika. All rights reserved.
+<script type="text/javascript" src="/NicoClip/js/main.js"></script>
