@@ -18,9 +18,9 @@ window.onload = function(){
 
 function setlanguage(lang){
     var url = document.location.href;
-    if (lang == "ja" && url == "https://takpika.github.io/NicoClip/en/"){
+    if (lang == "ja" && url.includes("/en/")){
         document.location.replace("/NicoClip/");
-    }else if (lang != "ja" && url == "https://takpika.github.io/NicoClip/"){
+    }else if (lang != "ja" && !url.includes("/en/")){
         document.location.replace("/NicoClip/en/");
     }
 }
