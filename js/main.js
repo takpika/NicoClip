@@ -18,8 +18,8 @@ window.onload = function(){
 
 function setlanguage(lang){
     if (lang == "en"){
-        document.location.href = "NicoClip/en/";
+        document.location.href = "/NicoClip/en/";
     }else{
-        document.location.href = "NicoClip/";
+        document.location.href = "/NicoClip/";
     }
 }
