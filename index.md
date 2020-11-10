@@ -19,7 +19,7 @@ NicoClipは、ニコニコ動画の動画IDをボタンを押すだけでURLに�
 ## 3. ダウンロード
 ### Version 1.0.1
 Release: 2020/11/10<br>
-ダウンロードは<strong>[こちら](releases/1.0.1/NicoClip-1.0.1-Installer.dmg)</strong>
+ダウンロードは<strong>[こちら](/NicoClip/releases/1.0.1/NicoClip-1.0.1-Installer.dmg)</strong>
 <br><br>
-<strong>JP</strong>/[EN](/NicoClip/en/)<br>
+<strong>JP</strong>/[EN](en/)<br>
 Copyright 2020 takpika. All rights reserved.
