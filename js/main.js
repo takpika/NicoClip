@@ -20,7 +20,7 @@ function setlanguage(lang){
     var url = document.location.href;
     if (lang == "ja" && url == "https://takpika.github.io/NicoClip/en/"){
         document.location.replace("/NicoClip/");
-    }else if (url == "https://takpika.github.io/NicoClip/"){
+    }else if (lang != "ja" && url == "https://takpika.github.io/NicoClip/"){
         document.location.replace("/NicoClip/en/");
     }
 }
