@@ -21,6 +21,5 @@ NicoClip is a very simple application that converts your niconico's video ID int
 Release: Nov. 10th, 2020<br>
 Download from <strong>[here](/NicoClip/releases/1.0.1/NicoClip-1.0.1-Installer.dmg)</strong>
 <br><br>
-[JP](../)/<strong>EN</strong><br>
 Copyright 2020 takpika. All rights reserved.
 <script type="text/javascript" src="/NicoClip/js/main.js"></script>
