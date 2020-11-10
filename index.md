@@ -1,4 +1,4 @@
-<html lang="ja-jp">
+<html lang="ja">
 <link rel="alternate" hreflang="en" href="en/">
 <img src="https://takpika.github.io/NicoClip/img/logo.png" alt="NicoClip" title="ロゴ"  width="50%" height="50%">
 # NicoClipへようこそ！
