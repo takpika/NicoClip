@@ -1,4 +1,4 @@
-<img src="NicoClip/img/logo.png" alt="NicoClip" title="ロゴ">
+<img src="https://takpika.github.io/NicoClip/img/logo.png" alt="NicoClip" title="ロゴ">
 # NicoClipへようこそ！
 
 ### 目次
