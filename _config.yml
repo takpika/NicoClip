@@ -2,6 +2,10 @@ theme: jekyll-theme-minimal
 twitter:
     username: takpika0308
 defaults:
+  - scope:
+        path: ""
     values:
         image:
-            path: logo.png
+            path: /logo.png
+            height: 1280
+            width: 1280
