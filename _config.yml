@@ -1,1 +1,7 @@
 theme: jekyll-theme-minimal
+twitter:
+    username: takpika0308
+defaults:
+    values:
+        image:
+            path: logo.png
