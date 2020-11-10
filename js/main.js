@@ -16,7 +16,7 @@ window.onload = function(){
     setlanguage(language);
 }
 
-setlanguage(lang){
+function setlanguage(lang){
     if (lang == "en"){
         document.location.href = "NicoClip/en/";
     }else{
