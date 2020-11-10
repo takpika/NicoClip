@@ -1,4 +1,4 @@
-<img src="/img/logo.png" alt="NicoClip" title="ロゴ"></img>
+<img src="NicoClip/img/logo.png" alt="NicoClip" title="ロゴ">
 # NicoClipへようこそ！
 
 ### 目次
