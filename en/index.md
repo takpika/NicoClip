@@ -1,5 +1,3 @@
-<html lang="en">
-<link rel="alternate" hreflang="ja" href="/NicoClip/">
 <img src="https://takpika.github.io/NicoClip/img/logo.png" alt="NicoClip" title="Logo"  width="50%" height="50%">
 # Welcome to NicoClip!
 
