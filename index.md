@@ -23,4 +23,4 @@ Release: 2020/11/10<br>
 <br><br>
 Copyright 2020 takpika. All rights reserved.
 <script type="text/javascript" src="/NicoClip/js/main.js"></script>
-<a href="https://twitter.com/takpika0308?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">takpikaをフォローする</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br><a href="https://twitter.com/takpika0308?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">takpikaをフォローする</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
