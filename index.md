@@ -17,6 +17,9 @@ NicoClipは、ニコニコ動画の動画IDをボタンを押すだけでURLに�
 
 <a id="download"></a>
 ## 3. ダウンロード
+### Version 1.0.1
+Release: 2020/11/13<br>
+ダウンロードは<strong>[こちら](/NicoClip/releases/1.0.1/NicoClip-1.0.1-Installer.dmg)</strong>
 ### Version 1.0.0
 Release: 2020/11/10<br>
 ダウンロードは<strong>[こちら](/NicoClip/releases/1.0.0/NicoClip-1.0.0-Installer.dmg)</strong>
