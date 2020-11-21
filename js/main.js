@@ -24,3 +24,11 @@ function setlanguage(lang){
         document.location.replace("/NicoClip/en/");
     }
 }
+
+function onClick(){
+  if(jQuery('#title_bar .menu').css('display') === 'block'){
+    jQuery('#title_bar .menu').slideUp('1500');
+  }else{
+    jQuery('#title_bar .menu').slideDown('1500');
+  }
+}
