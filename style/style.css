@@ -108,3 +108,12 @@ body{
   text-align: center;
   font-size: 15px;
 }
+
+.bold{
+  font-weight: bold;
+}
+
+.download{
+  background: skyblue;
+  margin: 10px 10px 10px 10px;
+}
