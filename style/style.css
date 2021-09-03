@@ -124,3 +124,7 @@ body{
 .download:hover{
   background: skyblue;
 }
+
+.download_boxes{
+  display: flex;
+}
