@@ -19,9 +19,9 @@ window.onload = function(){
 function setlanguage(lang){
     var url = document.location.href;
     if (lang == "ja" && url.includes("/en/")){
-        document.location.replace(url.replace("/NicoClip/en/","/NicoClip/"));
+        document.location.replace(url.replace("/en/","/"));
     }else if (lang != "ja" && !url.includes("/en/")){
-        document.location.replace(url.replace("/NicoClip/","/NicoClip/en/"));
+        document.location.replace(url.replace("/","/en/"));
     }
 }
 

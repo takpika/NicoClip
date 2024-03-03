@@ -6,6 +6,6 @@ defaults:
         path: ""
     values:
         image:
-            path: /NicoClip/img/logo.png
+            path: /img/logo.png
             height: 1280
             width: 1280
